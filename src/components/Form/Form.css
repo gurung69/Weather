@@ -1,0 +1,13 @@
+.search{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+input{
+  flex: 1;
+  height: 30px;
+  border-radius: 10px;
+  border: 1px;
+  padding: 5px;
+}

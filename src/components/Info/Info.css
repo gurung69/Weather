@@ -1,0 +1,20 @@
+.info{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.city{
+  font-weight: 500;
+  font-size: 30px;
+}
+
+.temp-div{
+  display: flex;
+  align-items: center;
+  font-size: 25px;
+}
+
+img{
+  height: 45px;
+}
