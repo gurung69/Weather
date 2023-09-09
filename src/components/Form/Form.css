@@ -11,3 +11,7 @@ input{
   border: 1px;
   padding: 5px;
 }
+
+svg:hover{
+  cursor: pointer;
+}
