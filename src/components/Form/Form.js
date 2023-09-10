@@ -9,7 +9,7 @@ export function Form(props){
     const input_field = document.querySelector("input");
 
     props.fetchWeather(input_field.value)
-    
+    input_field.value=''
 
   }
 
