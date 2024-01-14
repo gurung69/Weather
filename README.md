@@ -11,11 +11,4 @@ Weather application that utilizes open weather API to get weather infromation. U
 **APIs**: Opean weather, Unsplash, OpenCage \
 **Tools**: React, Javascript, HTML, CSS
 
-## Running Locally
-1. Clone repository
-```cmd
-$ git clone git@github.com:gurung69/WeatherApp.git
-```
-2. Get API Key from Open Weather and OpenCage
 
-3. Replace the value for key in index.js with API key
